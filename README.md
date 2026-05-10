@@ -118,22 +118,31 @@ Created:
 
 ---
 
-## Screenshots
+## Project Visuals
 
 ### Missing Values Heatmap
-![Missing Values](screenshots/missing_values_heatmap.jpg)
+![Missing Values Heatmap](screenshots/missing_values_heatmap.jpg)
 
 ### Gender Distribution
-![Gender Distribution](screenshots/gender_distribution.png)
-
-### Income vs Age
-![Income vs Age](screenshots/income_vs_age.png)
+![Gender Distribution](screenshots/gender_distribution.jpg)
 
 ### Correlation Heatmap
-![Correlation Heatmap](screenshots/correlation_heatmap.png)
+![Correlation Heatmap](screenshots/correlation_heapmap.jpg)
 
----
+### Diet Distribution
+![Diet Distribution](screenshots/diet_distribution.jpg)
 
+### Income by Age & Gender
+![Income by Age & Gender](screenshots/income_by_age_gender.jpg)
+
+### Age Distribution
+![Age Distribution](screenshots/income_age_distribution.jpg)
+
+### Income vs Age Scatterplot
+![Income vs Age Scatterplot](screenshots/income_age_scatter.jpg)
+
+### Income Dispersion by Age Band
+![Income Dispersion by Age Band](screenshots/income_age_boxplot.jpg)
 ## How to Run the Project
 
 ### Clone Repository

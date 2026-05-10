@@ -121,7 +121,7 @@ Created:
 ## Screenshots
 
 ### Missing Values Heatmap
-![Missing Values](screenshots/missing_values_heatmap.png)
+![Missing Values](screenshots/missing_values_heatmap.jpg)
 
 ### Gender Distribution
 ![Gender Distribution](screenshots/gender_distribution.png)
